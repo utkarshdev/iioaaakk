@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "mmnnj"
+  description: "cdf"  
+  annotations:
+    github.com/project-slug: utkarshneo/iioaaakk
+    sonarqube.org/project-key: undefined-iioaaakk
+spec:
+  type: service
+  owner: "guests"
+  lifecycle: experimental
